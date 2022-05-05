@@ -1,0 +1,14 @@
+#ifndef WORKFLOW_ENGINE_SRC_REMOTER_TCP_REMOTER_H
+#define WORKFLOW_ENGINE_SRC_REMOTER_TCP_REMOTER_H
+
+#include <string>
+
+namespace we
+{
+class TcpRemoter
+{
+
+};
+}
+
+#endif //WORKFLOW_ENGINE_SRC_REMOTER_TCP_REMOTER_H

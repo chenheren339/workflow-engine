@@ -1,0 +1,14 @@
+#ifndef WORKFLOW_ENGINE_SRC_EXECUTOR_LUA_EXECUTOR_H
+#define WORKFLOW_ENGINE_SRC_EXECUTOR_LUA_EXECUTOR_H
+
+#include <string>
+
+namespace we
+{
+class lua_executor
+{
+
+};
+}
+
+#endif //WORKFLOW_ENGINE_SRC_EXECUTOR_LUA_EXECUTOR_H
